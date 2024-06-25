@@ -18,6 +18,7 @@ INSTALLED_APPS = [
     # my apps
     "profiles",
     "receivers",
+    "invoices",
 ]
 
 MIDDLEWARE = [
